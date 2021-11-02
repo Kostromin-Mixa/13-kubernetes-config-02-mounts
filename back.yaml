@@ -4,7 +4,7 @@ metadata:
   name: backend
 spec:
   containers:
-    - name: backend
+    - name: busybox
       image: busybox
       command: ["sleep", "3600"]
       volumeMounts:
