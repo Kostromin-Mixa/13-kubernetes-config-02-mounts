@@ -12,3 +12,4 @@
 ![2021-11-01_23-52-04](https://user-images.githubusercontent.com/78191008/139729254-facbac01-84f3-40a0-a1db-c39aafc1875f.png)
 
 ## 2 задание   
+Созданы два POD frontend и backend
